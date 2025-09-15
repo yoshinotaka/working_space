@@ -1,1 +1,2 @@
 Hello Git!good branch
+プルリクエストに従って追加
